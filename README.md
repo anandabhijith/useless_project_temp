@@ -1,16 +1,16 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# RandomGPT 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: FrontiernXT
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abin Thomas - College of Engineering Chengannur
+- Member 2: Abel Jose Shelley - College of Engineering Chengannur
+- Member 3: Abhijith Anand - College of Engineering Chengannur
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -24,7 +24,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- React,node
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]

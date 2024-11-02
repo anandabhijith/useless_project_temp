@@ -1,30 +1,30 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# RandomGPT 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Frontier nXt
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abin Thomas - College of Engineering Chengannur
+- Member 2: Abel Jose Shelley - College of Engineering Chengannur
+- Member 3: Abhijith Anand - College of Engineering Chengannur
 
 ### Project Description
-[2-3 lines about what your project does]
+A fun, slightly clueless chatbot friend. It doesn’t always get things right, but it’s here to keep you entertained with unpredictable answers. Perfect for a lighthearted chat, not perfect answers!
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Today's generation always depends on AI tools like chatGPT,copilot etc for every needs rather than using their own brain for creative ideas.
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+### The Solution (that nobody asked for) 
+A playful chatbot that gives imperfect answers to spark creative thinking. It encourages users to rely on their own ideas instead of depending on AI for every solution.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- HTML,CSS,Javascript
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]

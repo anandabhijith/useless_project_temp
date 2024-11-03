@@ -25,22 +25,16 @@ A playful chatbot that gives imperfect answers to spark creative thinking. It en
 ### Technologies/Components Used
 For Software:
 - HTML,CSS,Javascript
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- React, Node.js
+- ChatGPT
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+npm install
 
 # Run
-[commands]
+npm run start
 
 ### Project Documentation
 For Software:
@@ -87,9 +81,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Abin Thomas : Integratiion of Gemini API
+- Abel Jose Shelley : Frontend
+- Abhijith Anand : Design
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
